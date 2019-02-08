@@ -2,11 +2,11 @@
 
 int main()
 {
-	char c;
-	scanf("%c",&c);
-	if((c>='A' && c<='Z') || (c>='a' && c<='z'))
+	char ch;
+	scanf("%c",&char);
+	if((ch>='A' && ch<='Z') || (ch>='a' && ch<='z'))
 	{
-		if(c== 'A'|| c=='a'|| c=='E'|| c=='e'||c=='I'|| c=='i'||c=='O'|| c=='o'|| c=='U'|| c=='u')
+		if(ch== 'A'|| ch=='a'|| ch=='E'|| ch=='e'||ch=='I'|| ch=='i'||ch=='O'|| ch=='o'|| ch=='U'|| ch=='u')
 		{
 			printf("Vowel\n");
 		}
