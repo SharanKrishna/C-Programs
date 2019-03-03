@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="Dark_Brown_Soil" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>Dark_Brown_Soil</name>
+	<Snippet maxLines="0"></Snippet>
+	<Style id="PolyStyle00">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff6e6e6e</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000a8</color>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>Dark_Brown_Soil</name>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00000">
+			<name>IN</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>IN</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SNUM</td>
+
+<td>3818</td>
+
+</tr>
+
+<tr>
+
+<td>FAOSOIL</td>
+
+<td>Nd49-2bc</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DOMSOI</td>
+
+<td>Nd</td>
+
+</tr>
+
+<tr>
+
+<td>PHASE1</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PHASE2</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>MISCLU1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MISCLU2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>PERMAFROST</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CNTCODE</td>
+
+<td>100</td>
+
+</tr>
+
+<tr>
+
+<td>CNTNAME</td>
+
+<td>IN</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SQKM</td>
+
+<td>556</td>
+
+</tr>
+
+<tr>
+
+<td>COUNTRY</td>
+
+<td>INDIA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Soil_Name</td>
+
+<td>Dark Brown Soil</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								76.74401855468756,11.02590084075931,0 76.73239898681652,11.02897071838392,0 76.71205139160196,11.03245067596431,0 76.70652008056669,11.03135108947758,0 76.69883728027366,11.02267169952398,0 76.69040679931669,11.01749992370611,0 76.67978668212925,10.99943065643323,0 76.6808166503908,10.99265956878676,0 76.67868804931669,10.98605060577395,0 76.67777252197266,10.97970104217534,0 76.66044616699241,10.96045970916752,0 76.65931701660168,10.95048046112062,0 76.6549530029298,10.9421911239624,0 76.65727996826195,10.93868064880364,0 76.65558624267578,10.93427085876481,0 76.64739227294956,10.92897033691416,0 76.64916229248036,10.92415237426759,0 76.6527862548827,10.91996002197273,0 76.67487335205112,10.90640163421638,0 76.68460083007847,10.90243053436284,0 76.69300079345732,10.90227031707774,0 76.70040130615246,10.90079021453872,0 76.71142578125017,10.89556026458753,0 76.71846008300798,10.88984107971199,0 76.72283935546881,10.88762187957771,0 76.72785949707054,10.88679885864258,0 76.73079681396473,10.88408184051515,0 76.73268890380876,10.88097953796397,0 76.73943328857445,10.88443088531497,0 76.74395751953125,10.88492107391367,0 76.74910736083984,10.88478183746337,0 76.76191711425798,10.87977027893072,0 76.7666931152346,10.88174057006847,0 76.77298736572288,10.88164138793947,0 76.77773284912126,10.87897014617923,0 76.78128051757812,10.87390136718749,0 76.78527069091837,10.87147235870374,0 76.79094696044922,10.87096977233883,0 76.8175582885745,10.86180114746099,0 76.82089233398443,10.85891056060794,0 76.82459259033226,10.85044193267815,0 76.8276290893557,10.84714031219488,0 76.82779609301349,10.8470253365996,0 76.84220886230474,10.89025020599367,0 76.8347625732423,10.91265964508058,0 76.81963348388672,10.92765998840336,0 76.78861999511724,10.93474960327153,0 76.76264953613293,10.94602012634277,0 76.74391937255876,10.97391986846922,0 76.74342346191418,10.99577045440675,0 76.75437164306646,11.01566028594969,0 76.76570129394531,11.02505016326906,0 76.77039166424703,11.02694398871357,0 76.75697326660168,11.02459144592298,0 76.74401855468756,11.02590084075931,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								76.85775756835949,11.06221961975102,0 76.90248107910179,11.092960357666,0 76.91562652587902,11.11023998260497,0 76.92714691162115,11.14404010772707,0 76.92143249511719,11.15942955017091,0 76.91181182861345,11.17055988311766,0 76.88912963867188,11.17033004760744,0 76.74983978271496,11.07048988342287,0 76.73475231157056,11.05753936154629,0 76.73600006103538,11.05445194244392,0 76.73709869384754,11.04751014709473,0 76.7402267456057,11.0456285476686,0 76.74649047851568,11.04697036743158,0 76.75112915039097,11.0467596054078,0 76.7547760009769,11.03919982910171,0 76.76232147216797,11.03426074981694,0 76.76718139648477,11.03221035003662,0 76.77543640136719,11.03428173065194,0 76.78997039794945,11.04968166351328,0 76.79342651367199,11.04701137542736,0 76.79247283935558,11.0423727035523,0 76.78773453987287,11.03394650174106,0 76.85775756835949,11.06221961975102,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
