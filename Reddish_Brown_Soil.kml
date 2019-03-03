@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="Reddish_Brown_Soil" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>Reddish_Brown_Soil</name>
+	<Snippet maxLines="0"></Snippet>
+	<Style id="PolyStyle00">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff6e6e6e</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000a8</color>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>Reddish_Brown_Soil</name>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00000">
+			<name>IN</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>IN</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SNUM</td>
+
+<td>3867</td>
+
+</tr>
+
+<tr>
+
+<td>FAOSOIL</td>
+
+<td>Vp42-3a</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DOMSOI</td>
+
+<td>Vp</td>
+
+</tr>
+
+<tr>
+
+<td>PHASE1</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PHASE2</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>MISCLU1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MISCLU2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>PERMAFROST</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CNTCODE</td>
+
+<td>100</td>
+
+</tr>
+
+<tr>
+
+<td>CNTNAME</td>
+
+<td>IN</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SQKM</td>
+
+<td>341</td>
+
+</tr>
+
+<tr>
+
+<td>COUNTRY</td>
+
+<td>INDIA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Soil_Name</td>
+
+<td>Reddish Brown Soil</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								77.21237120021942,11.28889259193981,0 77.20565032959013,11.28711128234866,0 77.19706726074253,11.28701019287102,0 77.19043731689487,11.28810024261486,0 77.1886291503908,11.29232120513925,0 77.18914794921903,11.29790019989025,0 77.19579315185558,11.2956714630127,0 77.20701599121128,11.29472064971937,0 77.20892333984409,11.30154037475592,0 77.21572113037121,11.30402183532718,0 77.22013854980497,11.30352973937988,0 77.22277069091803,11.30467128753675,0 77.22445678710949,11.30860996246344,0 77.22529602050815,11.31645011901864,0 77.22277832031261,11.3174800872802,0 77.22012329101568,11.32385921478274,0 77.20971679687517,11.32350158691405,0 77.20883178710938,11.32808017730717,0 77.21601867675804,11.33506107330334,0 77.21953582763689,11.33971977233891,0 77.21347045898477,11.34103965759283,0 77.20683288574259,11.34023094177246,0 77.19586944580084,11.33692073822031,0 77.18718719482445,11.33222198486322,0 77.18482208251964,11.33287143707281,0 77.18540954589861,11.32810974121104,0 77.18454742431663,11.32436084747313,0 77.17613220214866,11.32869052886971,0 77.1653289794923,11.32999038696302,0 77.16313171386719,11.32011032104488,0 77.16739654541016,11.32025241851808,0 77.1689529418947,11.31619930267333,0 77.16871643066418,11.31200122833262,0 77.17175292968778,11.31085014343263,0 77.16940307617227,11.3037424087525,0 77.16491699218739,11.30452060699471,0 77.15499114990223,11.3047399520874,0 77.14865875244163,11.31859016418461,0 77.13858795166021,11.3241395950317,0 77.12890625000011,11.32655143737803,0 77.12193298339855,11.34263038635254,0 77.1192779541019,11.34596920013429,0 77.1200103759769,11.34960174560548,0 77.11695098876976,11.35494041442874,0 77.11741638183588,11.35833072662365,0 77.11891280522588,11.36136880341314,0 77.10614776611339,11.35805988311768,0 77.08247375488298,11.3415803909302,0 77.03746032714844,11.29465007781984,0 77.01644134521496,11.25380039215088,0 77.01818847656267,11.20421028137209,0 77.03173065185558,11.18356037139894,0 77.06128692626953,11.17195987701417,0 77.08625793457031,11.17568016052248,0 77.12326049804693,11.19682025909424,0 77.19476318359381,11.26576042175292,0 77.21237120021942,11.28889259193981,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>IN</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>IN</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SNUM</td>
+
+<td>3867</td>
+
+</tr>
+
+<tr>
+
+<td>FAOSOIL</td>
+
+<td>Vp42-3a</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DOMSOI</td>
+
+<td>Vp</td>
+
+</tr>
+
+<tr>
+
+<td>PHASE1</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PHASE2</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>MISCLU1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MISCLU2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>PERMAFROST</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CNTCODE</td>
+
+<td>100</td>
+
+</tr>
+
+<tr>
+
+<td>CNTNAME</td>
+
+<td>IN</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SQKM</td>
+
+<td>921</td>
+
+</tr>
+
+<tr>
+
+<td>COUNTRY</td>
+
+<td>INDIA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Soil_Name</td>
+
+<td>Reddish Brown Soil</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								77.30545396792871,10.70746855063297,0 77.30005645751964,10.71788024902342,0 77.25325775146484,10.7564001083374,0 77.23716735839849,10.77379989624022,0 77.22667694091797,10.80222034454344,0 77.22210693359386,10.83129024505617,0 77.21584320068376,10.92953014373779,0 77.19825744628906,10.99674987792972,0 77.18338775634783,11.0141201019287,0 77.1547470092774,11.03497028350829,0 77.12978363037121,11.04401969909671,0 77.09529113769531,11.03952026367188,0 77.07303619384777,11.02641010284425,0 77.05435943603527,11.00037956237797,0 77.04057312011724,10.94038963317874,0 77.0382080078125,10.85678958892822,0 77.04035949707043,10.82676982879642,0 77.06484985351562,10.71455955505374,0 77.07588958740246,10.70676994323728,0 77.09207916259788,10.67673015594481,0 77.10186767578136,10.6678800582886,0 77.17661285400391,10.61622047424314,0 77.26592254638678,10.60958957672118,0 77.29599761962902,10.61956977844244,0 77.30017852783214,10.62724018096927,0 77.31307983398449,10.64103031158449,0 77.31896972656273,10.6680603027344,0 77.31644555940892,10.68141472458218,0 77.30896759033203,10.68064022064206,0 77.30684661865251,10.69881057739266,0 77.3050231933596,10.70503997802747,0 77.30545396792871,10.70746855063297,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
